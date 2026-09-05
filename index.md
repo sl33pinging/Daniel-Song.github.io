@@ -10,6 +10,13 @@ RTL design, FPGAs, and embedded systems.
 
 **RV32I Soft CPU on a Spartan-7 FPGA** -- [32-bit RISC-V processor written in SystemVerilog](https://github.com/sl33pinging/riscv-cpu-fpga)
 
+## Coursework
+18-240 Structure and Design of Digital Systems,
+18-410 Hacker Fab,
+18-220 Electronic Devices and Analog Circuits,
+15-122 Principles of Imperative Computation, 
+18-290 Signals and Systems
+
 ## Links
 [GitHub](https://github.com/sl33pinging) ·
 [LinkedIn](https://www.linkedin.com/in/zhicheng-song-17a8a3262/)
